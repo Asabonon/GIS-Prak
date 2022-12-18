@@ -1,0 +1,26 @@
+#gmap {
+    color: #000;
+    background: #FFF;
+    width: 600px;
+    height: 400px;
+    position: relative;
+    left: 35%;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+
+#ymap {
+    color: #000;
+    background: #FFF;
+    width: 600px;
+    height: 400px;
+    position: relative;
+    left: 35%;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+    }
+
+    H3 { text-align: center }
+    H1 { text-align: center }
+
